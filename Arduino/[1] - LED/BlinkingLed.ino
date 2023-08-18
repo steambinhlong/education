@@ -1,4 +1,4 @@
-int led = 2;        // biến led được khởi tạo với định dạng số nguyên (interger) và được gán chân số 2 làm chân LED
+int led = 3;        // biến led được khởi tạo với định dạng số nguyên (interger) và được gán chân số 3 làm chân LED
 
 void setup()
 {
