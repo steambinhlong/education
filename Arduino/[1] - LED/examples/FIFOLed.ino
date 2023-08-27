@@ -26,6 +26,5 @@ void loop()
 
 /* 
 *   Bài tập dành cho các bạn 
-*   Bài tập số 1: Viết chương trình nhấp nháy 1 LED với độ trễ là 150ms
-*   Bài tập số 2: Viết chương trình nhấp nháy 3 LED tuần tự nhau với độ trễ là 300ms mỗi LED
+*   Bài tập 1: viết chương trình FIFO 4 led
 */
